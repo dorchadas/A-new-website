@@ -1,0 +1,202 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+   
+}
+body{
+    background-color: rgb(51, 49, 49);
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#whole{
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+   
+    
+    
+
+}
+#Header{
+   
+    display: flex;
+    height: 200px;
+    /* width: 400px; */
+    /* background-color: rgb(51, 49, 49); */
+}
+.h1{
+    padding-left: 100px;
+    
+    padding-right: 200px;
+}
+.select{
+    color: none;
+}
+#headcontent{
+
+   /* padding: 30px; */
+   color: rgb(51, 49, 49);
+   
+   
+}
+select{
+    font-size: 15px;
+    justify-content: space-between;
+    margin-right: 40px;
+    border: none;
+    
+}
+.Aboutus{
+    height: 350px;
+    /* background-color: rgb(51, 49, 49); */
+    /* display: block; */
+    /* margin-top: 200px; */
+    text-align: center;
+    font-size: 30px;
+    /* align-items: center; */
+}
+#pp{
+    font-size: 15px;
+}
+#mainagency{
+    background-color: rgb(51, 49, 49);
+    height: 900px;
+
+}
+.firstagency {
+    margin-top: 100px;
+    gap: 50px;
+    display: flex;
+    height: 500px;
+    /* background-color: black; */
+
+}
+#part1{
+    padding-left: 35px;
+    padding-right: 35px;
+    
+    margin-left: 40px;
+    width: 650px;
+    height: 400px;
+    background-color: rgb(51, 49, 49);
+    color: wheat;
+
+}
+#part2{
+    height: 400px;
+    margin-left:100px;
+    border: 5px solid white;
+    border-radius: 15px;
+    /* margin-right: 100px; */
+    
+}
+#part3{
+    margin-left: 80px;
+    display: flex;
+    gap: 40px;
+    
+}
+#funfact{
+    display: flex;
+    height: 300px;
+    /* width: 90%; */
+    margin: 40px;
+    background-color: black;
+}
+.funstate{
+    height: 300px;
+    width: 500px;
+    text-align: justify;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+#funstate2{
+    margin-top: 40px;
+    
+    color: white;
+    font-size: 33px;
+    margin-left: 80px;
+    height: 300px;
+    width: 500px;
+}
+sub{
+    font-size: 19px;
+}
+#funstate3{
+    margin-top: 40px;
+    
+    color: white;
+    font-size: 33px;
+    margin-left: 80px;
+    height: 300px;
+    width: 500px;
+}
+#whychooseus{
+    height: 600px;
+    margin: 40px;
+    /* border: 2px solid black; */
+    display: flex;
+}
+#whychooseuspart1{
+    padding-left: 80px;
+    padding-top: 40px;
+    height: 900px;
+    
+}
+#whychooseuspart2{
+    padding-top: 30px;
+    
+    padding-left: 170px;
+    padding-right: 90px;
+}
+
+.teamimages{
+    padding: 30px;
+    background-color:black ;
+    /* margin: 30px; */
+    
+}
+#letsdisscuse{
+    margin: 40px;
+    /* background-color: black; */
+    border: 2px solid white;
+    color: white;
+    height: 300px;
+    width: auto;
+    text-align: center;
+    padding-top: 100px;
+    background-color: black;
+}
+.hover:hover{
+    
+    color: red;
+}
+#mainfooter{
+    display: flex;
+    margin: 40px;
+    height: 300px;
+    background-color: rgba(10, 5, 5, 0.212);
+    /* width: 100%; */
+    /* border: 2px solid white; */
+    /* padding-bottom: 40px; */
+
+}
+
+.footer1{
+    margin: 40px;
+height: 200px;
+width: 350px;
+/* border: 2px solid white; */
+
+}
+.button{
+    background-color: orangered;
+    width: 40px;
+}
+.button:hover{
+    color: yellow;
+    background-color: brown;
+}
+.Lastfooter{
+    /* background-color: rgba(39, 29, 29, 0.685); */
+}
